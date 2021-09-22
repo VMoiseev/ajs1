@@ -1,0 +1,23 @@
+{
+  "name": "ajs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMoiseev/ajs1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VMoiseev/ajs1/issues"
+  },
+  "homepage": "https://github.com/VMoiseev/ajs1#readme",
+  "dependencies": {
+    "@vmoiseev/ajs": "^1.0.0"
+  }
+}
